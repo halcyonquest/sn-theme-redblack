@@ -1,0 +1,12 @@
+{
+  "name": "sn-theme-redclay",
+  "version": "1.0.0",
+  "main": "dist/dist.css",
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/halcyonquest/sn-theme-redclay.git"
+  }
+}
