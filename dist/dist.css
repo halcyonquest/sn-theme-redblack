@@ -42,7 +42,7 @@
   font-weight: bold;
 }
 .CodeMirror .cm-link, .CodeMirror .cm-string {
-  color: #b3626d !important;
+  color: #b3626d;
 }
 .CodeMirror .cm-formatting-header, .CodeMirror .cm-formatting-strong, .CodeMirror .cm-formatting-em {
   color :  #F80324;
