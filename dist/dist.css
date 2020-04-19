@@ -41,10 +41,10 @@
   color :  #b3021a;
   font-weight: bold;
 }
-.CodeMirror .cm-link, .CodeMirror .cm-string {
+.CodeMirror .cm-link, .cm-string {
   color: #b3626d;
 }
-.CodeMirror .cm-formatting-header, .CodeMirror .cm-formatting-strong, .CodeMirror .cm-formatting-em {
+.CodeMirror .cm-formatting-header, .cm-formatting-strong, .cm-formatting-em {
   color :  #F80324;
   opacity: 0.6;
 }
@@ -60,5 +60,4 @@
   color :  #00a12b;
   font-size: 0.9em;
   font-style: normal;
-  /* background-color: #706464; */
 }
