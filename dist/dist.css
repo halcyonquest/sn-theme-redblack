@@ -49,16 +49,16 @@
   opacity: 0.6;
 }
 .CodeMirror .cm-em {
-	font-style: italic;
-	color :  #b3021a;
+  font-style: italic;
+  color :  #b3021a;
 }
 .CodeMirror .cm-strong {
-	font-weight: bold;
-	color :  #b3021a;
+  font-weight: bold;
+  color :  #b3021a;
 }
 .CodeMirror .cm-quote {
-	color :  #00a12b;
-	font-size: 0.9em;
-	font-style: normal;
-	/* background-color: #706464; */
+  color :  #00a12b;
+  font-size: 0.9em;
+  font-style: normal;
+  /* background-color: #706464; */
 }
