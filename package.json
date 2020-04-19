@@ -1,6 +1,6 @@
 {
   "name": "sn-theme-redclay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/dist.css",
   "sn": {
     "main": "dist/dist.css"

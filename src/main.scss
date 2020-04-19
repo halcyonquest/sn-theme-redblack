@@ -36,33 +36,30 @@
   --sn-stylekit-paragraph-text-color: var(--ui-text-color);
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
+}
 	
-  .CodeMirror .cm-formatting-list-ol, .cm-formatting-list-ul {
-    color :  #b3021a;
-    font-weight: bold;
-  }
-  .CodeMirror .cm-link, .CodeMirror .cm-string {
-    color: #b3626d !important;
-  }
-  .CodeMirror .cm-formatting-header, .CodeMirror .cm-formatting-strong, .CodeMirror .cm-formatting-em {
-    color :  #F80324;
-    opacity: 0.6;
-  }
-  
-  .CodeMirror .cm-em {
-  	font-style: italic;
-  	color :  #b3021a;
-  }
-  
-  .CodeMirror .cm-strong {
-  	font-weight: bold;
-  	color :  #b3021a;
-  }
-  
-  .CodeMirror .cm-quote {
-  	color :  #00a12b;
-  	font-size: 0.9em;
-  	font-style: normal;
-  	/* background-color: #706464; */
-  }
-}  
+.CodeMirror .cm-formatting-list-ol, .cm-formatting-list-ul {
+  color :  #b3021a;
+  font-weight: bold;
+}
+.CodeMirror .cm-link, .CodeMirror .cm-string {
+  color: #b3626d !important;
+}
+.CodeMirror .cm-formatting-header, .CodeMirror .cm-formatting-strong, .CodeMirror .cm-formatting-em {
+  color :  #F80324;
+  opacity: 0.6;
+}
+.CodeMirror .cm-em {
+	font-style: italic;
+	color :  #b3021a;
+}
+.CodeMirror .cm-strong {
+  font-weight: bold;
+  color :  #b3021a;
+}
+.CodeMirror .cm-quote {
+  color :  #00a12b;
+  font-size: 0.9em;
+  font-style: normal;
+  /* background-color: #706464; */
+}
