@@ -36,7 +36,7 @@
   --sn-stylekit-paragraph-text-color: var(--ui-text-color);
   --sn-stylekit-scrollbar-track-border-color: var(--border-color);
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
-  --sn-stylekit-grey-5: var(--secondary-bg-color:);
+  --sn-stylekit-grey-5: var(--secondary-bg-color);
 }
 .CodeMirror .cm-formatting-list-ol, .cm-formatting-list-ul {
   color :  #b3021a;
