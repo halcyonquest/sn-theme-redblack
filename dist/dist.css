@@ -38,6 +38,7 @@
   --sn-stylekit-scrollbar-thumb-color: var(--sn-stylekit-info-color);
   --sn-stylekit-grey-5: var(--secondary-bg-color);
   --sn-stylekit-passive-color-5: var(--sn-stylekit-background-color);
+  --navigation-item-selected-background-color: var(--sn-stylekit-shadow-color);
 }
 .CodeMirror .cm-formatting-list-ol, .cm-formatting-list-ul {
   color :  #b3021a;
